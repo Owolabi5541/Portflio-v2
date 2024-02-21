@@ -61,7 +61,7 @@ const Intro = () => {
               }}
              initial={{ opacity: 0.2, scale: 0 }}
             >
-              <a href="https://twitter.com/ipiss_chanpagne" target="_blank" rel="noreferrer">
+              <a href="https://x.com/iconstudio360?s=21" target="_blank" rel="noreferrer">
                 <RiTwitterLine className='text-[18px] md:text-[20px]' />
               </a>
             </motion.div>

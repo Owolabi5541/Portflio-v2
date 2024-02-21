@@ -33,7 +33,7 @@ const Home = ({children}) => {
                  <a href="https://www.linkedin.com/in/idris-yusuf-504974268/" target="_blank" rel="noreferrer">
                    <SlSocialLinkedin className='text-[16px] my-2 xl:text-[20px] xl:my-3' />
                  </a>
-                 <a href="https://twitter.com/ipiss_chanpagne" target="_blank" rel="noreferrer">
+                 <a href="https://x.com/iconstudio360?s=21" target="_blank" rel="noreferrer">
                    <RiTwitterLine className='text-[18px] my-2 xl:text-[22px] xl:my-3' />
                  </a>
                  <a href="http://api.whatsapp.com/send/?phone=2349130812426&text&type=phone_number&app_absent=0" target="_blank" rel="noreferrer">
