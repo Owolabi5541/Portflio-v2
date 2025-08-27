@@ -3,7 +3,7 @@ import logo from '../assets/logo.png'
 import { CiMenuFries } from 'react-icons/ci'
 import { TfiClose } from 'react-icons/tfi'
 import { motion } from 'framer-motion'
-import resume from "../assets/Updated-Resume.pdf"
+import resume from "../assets/updated-resume.pdf"
 
 const Navbar = () => {
     const [drawer, setDrawer] = useState(false)
@@ -118,5 +118,6 @@ const Navbar = () => {
     </div>
   )
 }
+
 
 export default Navbar
